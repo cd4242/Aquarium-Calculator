@@ -1,0 +1,1 @@
+﻿Height=10inches  Length=10inches  Width=10inches 2=Guppies 1=Angel Fish 1=Clown Fish  Volume=1000 Number of Gallons=4.33 Total Cost of Fish =5.5
